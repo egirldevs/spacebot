@@ -1,0 +1,23 @@
+{
+    "name": "apod-twitter-bot",
+    "version": "1.0.0",
+    "description": "A Twitter bot that posts the picture and adds a little description from APOD",
+    "main": "app.js",
+    "dependencies": {
+      "axios": "^0.24.0",
+      "twit": "^2.2.15"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "twitter",
+      "bot",
+      "apod",
+      "nasa",
+      "javascript"
+    ],
+    "author": "Emily // Bunni",
+    "license": "MIT"
+  }
+  
